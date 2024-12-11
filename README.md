@@ -1,2 +1,2 @@
 # Semiconductor-Packaging-Project
-Literature Review on Polymer‐based nanocomposites in semiconductor packaging 
+Research Study on Polymer‐based nanocomposites in semiconductor packaging 
